@@ -1,6 +1,7 @@
 # merge-google-drive-folders
 Merges google drive download folders and keeps original file structure using python.
-Use "python3 mergefolders.py" to run program.
+Use "python3 mergefolders.py" to run program if using entire codebase.
+Simply download .dmg and use as standalone option as well.
 
 ## Updates since the original version (circa 2024)
 - Native-style UI using ttk themes for macOS and Windows.
